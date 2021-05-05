@@ -1,0 +1,186 @@
+{
+  "categories": [
+    {
+      "name_category": "shoes AAAAAAAAAAAAAAAAA",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name_category": "shirt"
+    },
+    {
+      "name_category": "bags",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name_category": "handbag"
+    },
+    {
+      "name_category": "paint",
+      "id": "5"
+    },
+    {
+      "name_category": "test",
+      "id": "n0DNqVU"
+    }
+  ],
+  "products": [
+    {
+      "name": "hihi",
+      "cate_id": "1",
+      "price": "9999",
+      "detail": "detail",
+      "image": "default-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "blue shoes",
+      "cate_id": "1",
+      "price": "123",
+      "detail": "detail",
+      "image": "default-5.jpg",
+      "id": 2
+    },
+    {
+      "name": "green shoes",
+      "cate_id": "1",
+      "price": "123",
+      "detail": "detail",
+      "image": "default-12.jpg",
+      "id": 3
+    },
+    {
+      "name": "yellow shoes",
+      "cate_id": "1",
+      "price": "123",
+      "detail": "detail",
+      "image": "default-8.jpg",
+      "id": 4
+    },
+    {
+      "name": "test again",
+      "cate_id": "5",
+      "price": "999999",
+      "detail": "test test and test",
+      "image": "default-5.jpg",
+      "id": 5
+    },
+    {
+      "name": "asdasd",
+      "cate_id": "3",
+      "price": "9999",
+      "detail": "dasdasdasd",
+      "image": "default-3.jpg",
+      "id": 6
+    },
+    {
+      "name": "dasdas",
+      "cate_id": "3",
+      "price": "9999",
+      "detail": "asdasd",
+      "image": "default-5.jpg",
+      "id": 7
+    },
+    {
+      "name": "dasdasd",
+      "cate_id": "3",
+      "price": "9999",
+      "detail": "saddasd",
+      "image": "default-11.jpg",
+      "id": 8
+    },
+    {
+      "name": "safasf",
+      "cate_id": "1",
+      "price": "99999",
+      "detail": "dasdasd",
+      "image": "default-11.jpg",
+      "id": 9
+    },
+    {
+      "name": "safasfads",
+      "cate_id": "1",
+      "price": "999999",
+      "detail": "saasfaf",
+      "image": "default-10.jpg",
+      "id": 10
+    },
+    {
+      "name": "asdasd",
+      "cate_id": "1",
+      "price": "999999",
+      "detail": "dfgdgsgs",
+      "image": "default-12.jpg",
+      "id": 11
+    },
+    {
+      "name": "sffa",
+      "cate_id": "1",
+      "price": "999999",
+      "detail": "asdasd",
+      "image": "default-7.jpg",
+      "id": 12
+    },
+    {
+      "name": "asafaf",
+      "cate_id": "1",
+      "price": "99999",
+      "detail": "asdasjdva",
+      "image": "default-8.jpg",
+      "id": 13
+    }
+  ],
+  "orders": [
+    {
+      "customer_name": "vinh do van",
+      "customer_address": "136 nguyen thi thap",
+      "customer_email": "dovanvinwha@gmail.com",
+      "customer_phone_number": "1234567890",
+      "created_date": "2021-04-16T05:57:18.826Z",
+      "id": 3
+    },
+    {
+      "customer_name": "vinh do van",
+      "customer_address": "136 nguyen thi thap",
+      "customer_email": "dovanvinwha@gmail.com",
+      "customer_phone_number": "1234567890",
+      "created_date": "2021-04-16T06:00:35.890Z",
+      "id": 4
+    }
+  ],
+  "order_detail": [
+    {
+      "order_id": 3,
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": "9999",
+      "status": 1,
+      "id": 5
+    },
+    {
+      "order_id": 3,
+      "product_id": 10,
+      "quantity": 1,
+      "unit_price": "999999",
+      "status": 1,
+      "id": 6
+    },
+    {
+      "order_id": 4,
+      "product_id": 1,
+      "quantity": 2,
+      "unit_price": "9999",
+      "status": 1,
+      "id": 7
+    },
+    {
+      "order_id": 4,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": "123",
+      "status": 1,
+      "id": 8
+    }
+  ]
+}
